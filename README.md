@@ -25,15 +25,25 @@ The dataset used to build the dashboard includes the following key columns:
 
 ---
 
-### 🧮 Dashboard Metrics
+## 🧮 Dashboard Metrics
 
-The dashboard displays two key calculated insights:
+### 🔸 Total Working Hours
+Displays the cumulative working time (call + related tasks) of each employee.
 
-1. **Total Number of Working Hours**  
-   Represents the sum of active working hours logged by each employee, based on call durations and total time spent on customer interaction.
+### 🔸 Active with Customer
+Shows the net time employees were directly engaged with customers.
 
-2. **Active with Customer**  
-   Shows the exact time the employee was actively engaged in a conversation with a customer (excluding hold time, idle time, etc.).
+### 🔸 Dynamic Row Counter (🚀)
+Includes an interactive counter to:
+- Dynamically control how many employee rows appear.
+- View top/bottom performers as needed.
+- Customize focus range within the dashboard.
+
+### 🔸 Eye Icon – Chart Toggle 👁️
+An **Eye Button** is available to:
+- **Hide or unhide** selected charts or visuals.
+- Let users simplify the view by removing extra visuals temporarily.
+- Improve focus and presentation depending on the use case.
 
 ---
 
@@ -45,12 +55,18 @@ The goal of this dashboard is to:
 - Monitor time management and call efficiency.
 - Reduce customer hold and unattended call times.
 - Improve customer experience by ensuring consistent call quality.
+- Monitor productivity and responsiveness.
+- Identify areas of improvement across call metrics.
+- Create an intuitive, interactive Excel-based reporting system.
+- Support management in decision-making and employee evaluation.
 
 ---
 
 ## 🛠️ Tools Used
 
-- **Microsoft Excel** – For data cleaning, pivot charts, and dashboard design.
+- **Microsoft Excel** (Office LTSC Professional Plus 2021)
+- **Pivot Tables**, **Charts**, and **Slicers**
+- - **Form Controls**: Spinner, Counter, Eye Toggle Button
 - **Data Validation & Conditional Formatting** – To highlight performance metrics.
 - **Formulas & Functions** – Used for calculating averages, totals, and percentages.
 
@@ -60,10 +76,11 @@ The goal of this dashboard is to:
 
 For questions or feedback, feel free to reach out:
 
-**PERVEZ ALAM**  
-🔗 [LinkedIn](http://www.linkedin.com/in/pervez-alam1)  
-💻 [GitHub](https://github.com/PERVEZ-ALAM1234567)  
-📧 pervezalam1234567@gmail.com  
+**Name:** **Pervez Alam**  
+**📧 Email:** [pervezalam1234567@gmail.com](mailto:pervezalam1234567@gmail.com)  
+**🔗 LinkedIn:** [linkedin.com/in/pervez-alam1](http://www.linkedin.com/in/pervez-alam1)  
+**💻 GitHub:** [github.com/PERVEZ-ALAM1234567](https://github.com/PERVEZ-ALAM1234567)
 
 ---
 
+> Built with 💡 Microsoft Excel and a focus on real-world demographic analysis.
